@@ -1,4 +1,4 @@
-# SHOCK BENCH
+# AE SHOCK BENCH
 For After Effects
 ---------------------------
 
